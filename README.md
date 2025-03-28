@@ -18,15 +18,6 @@ Blender installation methods:
 
 ---
 
-• Sistema Operativo:, 
-Linux 6.8.0-52-generic, 
-• Blender Path:, 
-/media/sony/c29924ee-3013-45cd-a211-87064a6ff457/home/modulo/Blender3.6.21/blender-3.6.21-linux-x64/blender, 
-• Python Path:, /media/sony/c29924ee-3013-45cd-a211-87064a6ff457/home/modulo/Blender3.6.21/blender-3.6.21-linux-x64/3.6/python/bin/python3.10, 
-• pip Path:, 
-/media/sony/c29924ee-3013-45cd-a211-87064a6ff457/home/modulo/Blender3.6.21/blender-3.6.21-linux-x64/3.6/python/lib/python3.10/site-packages/pip
-
----
 ### Synaptic
 ```bash TITLE:"Install Synaptic"
 sudo apt update
