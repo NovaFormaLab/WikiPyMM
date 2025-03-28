@@ -10,11 +10,11 @@ Blender installation methods:
 
 | Methods                 | Web                                          | Description                                                           |     |
 | ----------------------- | -------------------------------------------- | --------------------------------------------------------------------- | --- |
-| [[#Synaptic\|Synaptic]] | [Synaptic](https://wiki.debian.org/Synaptic) | Graphical package manager                                             |     |
-| [[#Apt\|Apt]]           | [Apt](https://wiki.debian.org/Apt)           | Advanced Packaging Tool in terminal                                   |     |
-| [[#Snap\|Snap]]         | [snapcraf.io](https://snapcraft.io/)         | Application with its dependencies. Supports updates. Signed packages. |     |
-| [[#Flatpack\|Flatpack]] | [flathub](https://flathub.org/)              | Application without dependencies. Smaller size.                       |     |
-| [[#AppImage\|AppImage]] | [appimagehub](https://www.appimagehub.com/)  | Portable application with dependencies. A single file.                |     |
+| [Synaptic](#synaptic)   | [Synaptic](https://wiki.debian.org/Synaptic) | Graphical package manager                                             |     |
+| [Apt](#Apt)           | [Apt](https://wiki.debian.org/Apt)           | Advanced Packaging Tool in terminal                                   |     |
+| [Snap](#Snap)         | [snapcraf.io](https://snapcraft.io/)         | Application with its dependencies. Supports updates. Signed packages. |     |
+| [Flatpack](#Flatpack) | [flathub](https://flathub.org/)              | Application without dependencies. Smaller size.                       |     |
+| [AppImage](#AppImage) | [appimagehub](https://www.appimagehub.com/)  | Portable application with dependencies. A single file.                |     |
 
 ---
 
