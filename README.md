@@ -1,4 +1,4 @@
-# WikiPythonmm
+# WikiPyMM
 Documentation space where relevant information about the project is collected, organized, and shared.
 
 ![pythonmm_screenshot](resources/pythonmm_screenshot.png)
