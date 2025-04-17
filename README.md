@@ -1,17 +1,16 @@
 # WikiPyMM
 Documentation space where relevant information about the project is collected, organized, and shared.<br>
-PyMM is here!
+## PyMM is here!
 ![pymm](resources/PyMM.png)
-## Use:
-![pythonmm_screenshot](resources/pythonmm_screenshot.png)
+<br>
 ## Install blender cool in your system:
 [docs.blender.org](https://docs.blender.org/manual/es/latest/getting_started/installing/index.html)
-
+<br>
 ### Windows
 ### Mac
 ### Linux
 
-Blender installation methods:
+## Blender installation methods:
 
 | Methods                 | Web                                          | Description                                                           |     |
 | ----------------------- | -------------------------------------------- | --------------------------------------------------------------------- | --- |
