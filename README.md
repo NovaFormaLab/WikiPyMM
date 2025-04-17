@@ -3,8 +3,15 @@ Documentation space where relevant information about the project is collected, o
 ## PyMM is here!
 ![pymm](resources/PyMM.png)
 <br>
+### https://youtu.be/irbkrHrnGAM
+<br>
+
 ## PyMM Snap!
 ![pymm](resources/PyMM_snap.png)
+<br>
+### https://youtu.be/1MuRl0kEhYw
+<br>
+
 ## Install blender cool in your system:
 [docs.blender.org](https://docs.blender.org/manual/es/latest/getting_started/installing/index.html)
 <br>
